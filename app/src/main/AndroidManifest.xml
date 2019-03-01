@@ -16,6 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".SeatPlan" />
+        <activity android:name=".Results" />
+        <activity android:name=".Info" />
+        <activity android:name=".About"></activity>
     </application>
 
 </manifest>
